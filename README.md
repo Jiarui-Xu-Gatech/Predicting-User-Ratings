@@ -1,5 +1,7 @@
 # Project Group 06 S22
 
+More details of the model is in Report06_S22.pdf
+
 - Instruction to run the code
   - `cd` into the `code` folder.
   - The dataset is in the `ml-1m` folder. 
